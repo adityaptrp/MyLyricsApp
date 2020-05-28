@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Lyrics</string>
+    <string name="id_lagu">ID Lagu</string>
+    <string name="judul_lagu">Judul Lagu</string>
+    <string name="artist">Artist</string>
+    <string name="gambar">Gambar Lagu</string>
+    <string name="album">Album</string>
+    <string name="ket_album">Album : </string>
+    <string name="lirik_lagu">Lirik Lagu</string>
+    <string name="link">Link Lagu</string>
+    <string name="tambah">Tambah Lagu</string>
+    <string name="edit">Edit Lagu</string>
+    <string name="hapus">Hapus Lagu</string>
+    <string name="bagikan">Bagikan Lagu</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_berita">Data Lagu</string>
+    <string name="splash_screen">My Lyric</string>
+</resources>
